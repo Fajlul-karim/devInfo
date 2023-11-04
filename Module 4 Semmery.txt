@@ -1,0 +1,100 @@
+My Protfolio HMTL
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+    display: block;
+}
+.tomato{
+    color: tomato;
+}
+.fexible-section{
+    display: flex;
+    background-color: rgb(237, 225, 210);
+    background-repeat: no-repeat;
+}
+.fexible-section2{
+    display: flex;
+    
+}
+.mozzammel-h1{
+    font-size: 70px;
+}
+.hi-h2{
+    font-size: 50px;
+
+}
+.ridoy-h3{
+    font-size: 30px;
+}
+.developer-png{
+display: block;  
+}
+.nativ-var{
+
+  
+    list-style: none;
+
+    
+}
+ul{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.download-icon-button{
+    color: white;
+    background-color: tomato;
+    padding: 20px;
+    border-radius: 5px;
+    display: flex;
+}
+.download-click{
+   font-size: 20px;
+   display: inline;
+   padding-left: 2px;
+}
+.material-symbols-outlined{
+    font-size: 25px;
+}
+.hire-button{
+    font-size: 30px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+    background-color: rgb(237, 225, 210);
+    text-align: justify;
+    border-left: 7px solid tomato;
+
+}
+.navigation{
+    display: flex;
+}
+.img{
+    width: 40%;
+    display: block;
+     
+}
+footer p{
+    text-align: center;
+    margin-top: 100px;
+}
+.experience{
+    margin-top: 50px;
+    
+}
